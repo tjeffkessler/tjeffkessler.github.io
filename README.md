@@ -2,10 +2,6 @@
 
 This repository was created during my time as a Data Science student at Thinkful to host data science projects and drills that would showcase concepts and skills I learned as I progressed in the field. After some reorganization, I continue to use this repository to store one-off personal projects that don't merit their own repository (like exploratory data analysis in a Jupyter notebook).
 
-## Why this repository?
-
-To display portfolio projects easily by linking this repository to Github pages.
-
 ## Languages/Tools Used
 
 - Python
@@ -13,37 +9,12 @@ To display portfolio projects easily by linking this repository to Github pages.
 - Jupyter Notebooks (IPython Notebooks)
 - Data Science Toolkit (numpy, matplotlib, pandas, sci-kit learn, etc.) 
 
-## How to use?
+## Projects
+### [SABER Early Childhood Education Impacts](https://github.com/tjeffkessler/DSPortfolio/blob/master/SupervisedLearning/SABEREarlyChildhoodEducationImpacts.ipynb)
+Using education statistics from the World Bank, this project seeks to determine whether participation in the Systems Approach for Better Education Results (SABER) Early Childhood Education Initiatives had any measureable impact from its start in 2010 to 2015.
 
-You are more than welcome to use as much or as little of this code as you want. Feel free to clone it all and use it to base your own projects off of. Just be cool, don't copy and paste it straight and pass it off as your own to get an interview or something.
+### [NFL Punt Injury Analysis](https://github.com/tjeffkessler/DSPortfolio/blob/master/ExploratoryDataAnalysis/Analytic%20Report%20Final.ipynb)
+This project seeks to determine patterns in punt injury plays from two seasons of NFL data and propose a soultion for preventing those injuries.
 
-## Installation
-
-You may clone this repository by entering your preferred git-enabled terminal and running:
-`git clone https://github.com/tjeffkessler/DSPortfolio/`
-or by using the green Clone or Download in the browser version of the main repository page. 
-
-## Contribute
-
-If you would like to help, thanks! You are welcome to raise issues and submit pull requests to help me improve these projects, you altruistic python samurai. I don't have a strict *bushido* here; please just be kind, constructive, and clear with any contributions.
-
-## Credits
-If you're thinking to yourself, *"Where did he learn those sweet data sciencing moves?"*    
-Credit is due to: 
-- [Udacity](https://www.udacity.com/)
-- [Thinkful](https://www.thinkful.com/)
-- My awesome program manager Emma Holland
-- My wonderful mentors Paige Elliott and Shubhabrata Roy
-- My diligent, encouraging peers:
-    - Katrina Johnson 
-    - Will Morgan 
-    - Cindy Barrientos 
-    - Zach White 
-    - Ryan 
-    - Eve Ben Ezra
-    - Eric Folsom
-    - Melia Miller 
-- and of course [Stack Overflow](https://stackoverflow.com/).
-
-## License
-Apache 2.0 -- AKA Use my work, but be cool about it.
+### [Human Freedom Index Analysis](https://github.com/tjeffkessler/DSPortfolio/blob/master/ExploratoryDataAnalysis/HumanFreedomIndex.ipynb)
+This project seeks to visualize trends in human freedom indicator scores by country or region.
