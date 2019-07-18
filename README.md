@@ -12,7 +12,7 @@ This repository was created during my time as a Data Science student at Thinkful
 
 ## Projects
 ### [ScoreAI Essay Grader](https://github.com/tjeffkessler/score_ai/blob/master/org_score/ScoreAI.ipynb)
-This is the first iteration of an NLP solution to automatice essay grading. Using a corpus of essays scraped from the web, I developed a scoring metric to determine the organization (logical flow of sentences/paragraphs) and how on-topic the essay is. The score using LDA for topic modeling and cosine similarities to ensure paragraphs stay on topic. Future iterations will collect labelled data using this model as a beta version for teachers.
+This is the first iteration of an NLP solution to automatice essay grading. Using a corpus of essays scraped from the web, I developed a scoring metric to determine the organization (logical flow of sentences/paragraphs) and how on-topic the essay is. The score uses LDA for topic modeling and cosine similarities to ensure paragraphs stay on topic. Future iterations will collect labelled data using this model as a beta version for teachers.
 
 ### [SABER Early Childhood Education Impacts](https://github.com/tjeffkessler/DSPortfolio/blob/master/SupervisedLearning/SABEREarlyChildhoodEducationImpacts.ipynb)
 Using education statistics from the World Bank, this project seeks to determine whether participation in the Systems Approach for Better Education Results (SABER) Early Childhood Education Initiatives had any measureable impact from its start in 2010 to 2015.
