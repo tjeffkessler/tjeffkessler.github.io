@@ -11,7 +11,7 @@ This repository was created during my time as a Data Science student at Thinkful
 - Natural Language Processing (NLP) tools (spacy, gensim)
 
 ## Projects
-###[Technical Challenge](https://colab.research.google.com/drive/1wY3e05KF8DFec7Ww9-WEyUZx6nHu4n1i)
+### [Technical Challenge](https://colab.research.google.com/drive/1wY3e05KF8DFec7Ww9-WEyUZx6nHu4n1i)
 I included this take-home technical challenge to illustrate what I can do with a standard business question and dataset in the course of a few hours. It is an exploratory data analysis of customers based on whether or not they are members of a loyalty program.
 
 ### [ScoreAI Essay Grader](https://github.com/tjeffkessler/score_ai/blob/master/org_score/ScoreAI.ipynb)
