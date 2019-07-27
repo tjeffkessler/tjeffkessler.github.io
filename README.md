@@ -11,6 +11,9 @@ This repository was created during my time as a Data Science student at Thinkful
 - Natural Language Processing (NLP) tools (spacy, gensim)
 
 ## Projects
+###[Technical Challenge](https://colab.research.google.com/drive/1wY3e05KF8DFec7Ww9-WEyUZx6nHu4n1i)
+I included this take-home technical challenge to illustrate what I can do with a standard business question and dataset in the course of a few hours. It is an exploratory data analysis of customers based on whether or not they are members of a loyalty program.
+
 ### [ScoreAI Essay Grader](https://github.com/tjeffkessler/score_ai/blob/master/org_score/ScoreAI.ipynb)
 This is the first iteration of an NLP solution to automatice essay grading. Using a corpus of essays scraped from the web, I developed a scoring metric to determine the organization (logical flow of sentences/paragraphs) and how on-topic the essay is. The score uses LDA for topic modeling and cosine similarities to ensure paragraphs stay on topic. Future iterations will collect labelled data using this model as a beta version for teachers.
 
@@ -20,5 +23,3 @@ Using education statistics from the World Bank, this project seeks to determine 
 ### [NFL Punt Injury Analysis](https://github.com/tjeffkessler/DSPortfolio/blob/master/ExploratoryDataAnalysis/Analytic%20Report%20Final.ipynb)
 This project seeks to determine patterns in punt injury plays from two seasons of NFL data and propose a soultion for preventing those injuries.
 
-### [Human Freedom Index Analysis](https://github.com/tjeffkessler/DSPortfolio/blob/master/ExploratoryDataAnalysis/HumanFreedomIndex.ipynb)
-This project seeks to visualize trends in human freedom indicator scores by country or region.
